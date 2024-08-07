@@ -35,7 +35,7 @@ This Tic-Tac-Toe game was developed as a hands-on project while following a Udem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/haiderinam7/tic-tac-toe.git
+git clone https://github.com/haiderinam7/tic-tac-toe.git
 
 ### Concepts Covered
 
